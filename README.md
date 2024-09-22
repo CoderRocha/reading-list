@@ -1,7 +1,9 @@
 # My Reading List
 
-"My Reading List" is a simple reading list web app created by me, to understand more the process of building a React
- Application with "Authentication" and "Realtime Database" with 'Firebase' version 9 and 'react-router-dom' version 6. 
+"My Reading List" is a simple reading list web app created to understand more the process of building a React
+ Application with "Authentication" and "Realtime Database" with 'Firebase' version 9 and 'react-router-dom' version 6.
+
+The project base was build by "iamshaunjp", and i updated the rest of the files to complete the project with the newer version of both 'react-router-dom' and 'Firebase'
 
 # How to run the app correctly?
 
