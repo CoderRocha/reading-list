@@ -21,9 +21,9 @@ After the installation, to start the React application, you need to run the foll
 And then, access the application in the following local URL:
 [http://localhost:3000](http://localhost:3000)
 
-The project is about a simple web app Reading List, that allow users to create an account and register the books that they have already completed. It uses real time data with Firebase version 9, and each user can only access their own collection.
+The project is about a simple web app Reading List, that allow users to create an account and register the books that they want to read or have already read. It uses real time data with Firebase version 9, and each user can only access their own collection.
 
-It's very simple and intuitive, allowing users to quickly adapt to using the web app each time they want to add a book to their reading list.
+It's very simple and intuitive, allowing users to quickly adapt to using the web app each time they want to add a new book to their reading list.
 
 ## App Features
 
